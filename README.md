@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Skyler!
-- 👀 I have skills in Data Science and Data Visualisation with Python, Tableau and SQL. Some Python libraries I am familiar with include Pandas, Numpy, Matplotlib, Plotly, Seaborn, scikit-learn, TensorFlow, Requests. 
+- 👀 I have skills in Data Science and Data Visualisation with Python, Tableau and SQL. Some Python libraries I am familiar with include Pandas, Numpy, Matplotlib, Plotly, Seaborn, scikit-learn. 
+- 🍎 I’m currently learning Tensorflow and picking up Javascript as a second programming language.
 
 <!---
-- 🌱 I’m currently learning Scikit and Tensorflow / looking to pick up a second programming language. Perhaps Javascript before diving into C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
