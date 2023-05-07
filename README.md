@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Skyler!
 - 👀 I have skills in Data Science and Data Visualisation with Python, Tableau and SQL. Some Python libraries I am familiar with include Pandas, Numpy, Matplotlib, Plotly, Seaborn, scikit-learn. 
+- 🏆 Achieved 4th position in international AI competition hosted by the US Air Force. Details in my repository: https://github.com/skulu/cogpilotdatachallenge
 - 🍎 I’m currently picking up Javascript as a second programming language.
 
 <!---
